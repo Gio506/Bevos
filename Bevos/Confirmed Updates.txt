@@ -1,0 +1,11 @@
+=============================
+
+(v1.3) The Map Update
+
+-Updating map and making it more fun to explore
+
+-A1i will no longer be the only npc
+
+-Chests
+
+=============================

@@ -1,0 +1,28 @@
+=============================
+
+Version 1.0
+--/--/--
+This took to long to make
+360~ lines of code
+worth it
+
+=============================
+
+Version 1.1 & Patch
+10:24 PM 8/18/2022
+1.2k~ lines
+Added tutorial
+and removed useless code
+
+Patch Notes:
+
+1) Fixed the 'enter' error reported by user mocha 
+
+2) Fixed random game crashes when clicking reported by peri
+
+3) Fixed syntax error message reported by [MD]
+
+=============================
+
+
+
